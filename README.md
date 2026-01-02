@@ -1,1 +1,1 @@
-# Idle.vs.Usage
+# Idle vs Usage
